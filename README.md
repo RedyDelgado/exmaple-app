@@ -77,6 +77,10 @@ php artisan migrate --seed
 npm install tailwindcss @tailwindcss/vite
 ```
 
+```bash
+npm run dev
+```
+
 ### 9. Iniciar el servidor
 
 ```bash
