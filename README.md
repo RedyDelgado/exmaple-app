@@ -72,9 +72,12 @@ El nombre de `DB_DATABASE` debe ser igual al de la base creada en el paso 5.
 php artisan migrate --seed
 ```
 ### 8. Instalar Vite
-npm install tailwindcss @tailwindcss/vite
 
-### 8. Iniciar el servidor
+```bash
+npm install tailwindcss @tailwindcss/vite
+```
+
+### 9. Iniciar el servidor
 
 ```bash
 php artisan serve
